@@ -1,4 +1,6 @@
 # APS
-Atividades de Análise e Projetos de Sistemas
+Atividade de Análise e Projetos de Sistemas
 
-Imagem de referência ao diagrama
+"Imagem.png" = questão de referência usada para a implementação do codigo
+
+Desenvolvido pela dupla: Brenno Biase e Rebeca
